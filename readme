@@ -1,2 +1,3 @@
-Deve-se abrir o https://repl.it/, colar esse código e criar um arquivo Entrada.txt, colocando 6 valores em linhas diferentes
-Ao rodar, o código ira comparar com a sequencia pré estabelecia
+Deve-se abrir o https://repl.it/, colar esse código e criar um arquivo Entrada.txt, colocando valores do alfabeto 0 e 1 em linhas diferentes
+Ao rodar, o código ira verificar se a sequencia consegue chegar até o estado final
+Ao terminar, ele cria um arquivo Saida.txt, mostrando a sequencia conforme a leitura das entradas
